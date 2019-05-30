@@ -1,5 +1,4 @@
-# packer-oci - Close, but won't be *finished* until Tuesday
-
+# packer-oci - OCI for Developers
 Build OCI images with packer
 
 Workshop builds a Docker Developer's client image through a series of steps to show how packer can automate installation and configuration tasks.
@@ -10,5 +9,5 @@ As part of this workshop, you will complete labs helping you to better understan
 
 - Configuring OCI Infrastructure to support an Image
 - Launching an OCI Instance and installing software (packer and git)
-- Using Packer to build a custom OCI image which is configured to support a desktop login via VNC, firewall configuration and a custom environment (Docker and VNC services))
+- Using Packer to build a custom OCI image which is configured to support a desktop login via VNC, firewall configuration, identification labels  and a custom environment (Docker and VNC services))
 
