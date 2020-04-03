@@ -1,4 +1,4 @@
-# Creating OCI Images using Packer
+# Creating OCI Images using Packer - OCI for Developers
 
 Welcome to the **Oracle Cloud Infrastructure** Compute image building with Packer workshop. This workshop will walk you through the process of creating an custom infrastructure image to support a variety of DevOps and production use-cases.
 
@@ -28,6 +28,6 @@ To learn more about this workshop please watch the video below.
 ### **Step 2**: Navigate to Lab 100
 
 - [Click here to navigate to Lab 100](Lab100.md)
-- _You can see a list of Lab Guides_ by clicking on the **Menu Icon** hamburger in the upper left corner of the browser window. Then, **Select Lab 100: Cloud Infrastructure Configuration**.
+- _You can see a list of Lab Guides_ by clicking on the **Menu Icon** hamburger in the upper right corner of the browser window. Then, **Select Lab 100: Cloud Infrastructure Configuration**.
 
   ![](images/Introham.png)
